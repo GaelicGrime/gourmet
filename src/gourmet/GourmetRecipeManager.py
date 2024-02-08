@@ -967,7 +967,7 @@ class RecGui (RecIndex, GourmetApplication, ImporterExporter, StuffThatShouldBeP
         if (
                 (dbargs['custom_url'] != "")
         ):
-            _window_title_ = dbargs['custom_url'] + f""" Using DB \"{dbargs['custom_url']}\" """"
+            _window_title_ = dbargs['custom_url'] + f""" Using DB \"{dbargs['custom_url']}\" """
         # <<>>
         self.window.set_default_size(*self.prefs['app_window']['window_size'])
         self.window.set_title(version.appname)
