@@ -977,7 +977,7 @@ class RecGui (RecIndex, GourmetApplication, ImporterExporter, StuffThatShouldBeP
         ##else:
         _window_title_ = version.appname
         print(f"""\n\n*****************************************************************************\n""")
-        pprint.pprint(globals())
+        pprint.pprint(globals()["recipeManager"])
         print(f"""\n***************************************************************************** \n\n""")
         # <<>>
         self.window.set_default_size(*self.prefs['app_window']['window_size'])
