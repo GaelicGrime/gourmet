@@ -969,7 +969,7 @@ class RecGui (RecIndex, GourmetApplication, ImporterExporter, StuffThatShouldBeP
         ##):
         ##    _window_title_ = dbargs['custom_url'] + f""" Using DB \"{dbargs['custom_url']}\" """
         ## <<>>
-        _window_title_ = version.appname + " hello there"
+        _window_title_ = f"""{version.appname} hello there"""
         self.window.set_default_size(*self.prefs['app_window']['window_size'])
         self.window.set_title(_window_title_)
         self.main = Gtk.VBox()
