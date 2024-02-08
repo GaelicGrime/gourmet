@@ -964,12 +964,11 @@ class RecGui (RecIndex, GourmetApplication, ImporterExporter, StuffThatShouldBeP
         self.conf.append(saver)
 
         # <<>>
-        ##if (
-        ##        (dbargs['custom_url'] != "")
-        ##):
-        ##    _window_title_ = dbargs['custom_url'] + f""" Using DB \"{dbargs['custom_url']}\" """
-        ## <<>>
-        _window_title_ = f"""hello there {version.appname}"""
+        if (
+                (args.db_url != "")
+        ):
+            _window_title_ = f""" Using DB \"{args.db_url}\" """
+        # <<>>
         self.window.set_default_size(*self.prefs['app_window']['window_size'])
         self.window.set_title(_window_title_)
         self.main = Gtk.VBox()
