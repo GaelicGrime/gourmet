@@ -981,7 +981,7 @@ class RecGui (RecIndex, GourmetApplication, ImporterExporter, StuffThatShouldBeP
         """
         pprint.pprint(object, stream=None, indent=1, width=80, depth=None, *, compact=False, sort_dicts=True, underscore_numbers=False)
         """
-        PPPP(INS.getmembers(recipeManager.args))
+        PPPP(INS.getmembers(recipeManager.dbargs))
         print(f"""\n***************************************************************************** \n\n""")
         # <<>>
         self.window.set_default_size(*self.prefs['app_window']['window_size'])
