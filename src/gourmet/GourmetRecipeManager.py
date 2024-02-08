@@ -967,7 +967,7 @@ class RecGui (RecIndex, GourmetApplication, ImporterExporter, StuffThatShouldBeP
         if (
                 (args.db_url != "")
         ):
-            _window_title_ = f""" Using DB \"{args.db_url}\" """
+            _window_title_ = f""" Using DB \"{args.db_url}\"."""
         # <<>>
         self.window.set_default_size(*self.prefs['app_window']['window_size'])
         self.window.set_title(_window_title_)
