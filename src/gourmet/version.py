@@ -1,6 +1,6 @@
 from gourmet.i18n import _
 
-appname = _("Gourmet Recipe Manager")
+appname = _("Gourmet Recipe Manager Title")
 copyright = _("Copyright (c) 2004-2014 Thomas M. Hinkle and Contributors. GNU GPL v2")  # noqa
 version = "1.0.1"
 url = "http://thinkle.github.io/gourmet/"
