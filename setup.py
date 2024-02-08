@@ -193,7 +193,7 @@ setup(
     ],
     extras_require={
         'epub-export': ['ebooklib==0.17.1'],
-        'pdf-export': ['reportlab],
+        'pdf-export': ['reportlab'],
         'spellcheck': ['pyenchant',
                        'pygtkspellcheck'],
         'web-import': ['keyring==21.0.0',
