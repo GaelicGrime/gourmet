@@ -971,19 +971,17 @@ class RecGui (RecIndex, GourmetApplication, ImporterExporter, StuffThatShouldBeP
 
 
         # <<>>
-        ##if (
-        ##        (args.db_url != "")
-        ##):
-        ##    _window_title_ = f"""{version.appname} Using DB \"{args.db_url}\"."""
-        ##else:
-        _window_title_ = version.appname
-        print(f"""\n\n*****************************************************************************\n""")
-        """
-        pprint.pprint(object, stream=None, indent=1, width=80, depth=None, *, compact=False, sort_dicts=True, underscore_numbers=False)
-        """
-        ## PPPP(INS.getmembers(recipeManager.dbargs))
-        PPPP(recipeManager.dbargs)
-        print(f"""\n***************************************************************************** \n\n""")
+        if (
+                ("custom_url" in recipeManager.dbargs)
+        ):
+            _window_title_ = f"""{version.appname} Using DB \"{recipeManager.dbargs[custom_url]}\"."""
+        else:
+            _window_title_ = version.appname
+        ##print(f"""\n\n*****************************************************************************\n""")"""
+        ##pprint.pprint(object, stream=None, indent=1, width=80, depth=None, *, compact=False, sort_dicts=True, underscore_numbers=False)"""
+        ##PPPP(INS.getmembers(recipeManager.dbargs))
+        ##PPPP(recipeManager.dbargs)
+        ##print(f"""\n***************************************************************************** \n\n""")
         # <<>>
         self.window.set_default_size(*self.prefs['app_window']['window_size'])
         self.window.set_title(_window_title_)
