@@ -184,7 +184,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'beautifulsoup4==4.9.3',
-        'lxml==4.6.3',
+        'lxml',
         'pillow>=7.0.0',
         'pygobject==3.40.1',
         'requests==2.25.1',
