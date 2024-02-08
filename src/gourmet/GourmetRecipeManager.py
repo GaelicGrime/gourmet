@@ -971,6 +971,7 @@ class RecGui (RecIndex, GourmetApplication, ImporterExporter, StuffThatShouldBeP
         ##    _window_title_ = f"""{version.appname} Using DB \"{args.db_url}\"."""
         ##else:
         _window_title_ = version.appname
+        print(f"""{locals()=}""")
         # <<>>
         self.window.set_default_size(*self.prefs['app_window']['window_size'])
         self.window.set_title(_window_title_)
