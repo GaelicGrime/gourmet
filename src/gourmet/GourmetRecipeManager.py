@@ -964,7 +964,7 @@ class RecGui (RecIndex, GourmetApplication, ImporterExporter, StuffThatShouldBeP
         self.conf.append(saver)
 
         # <<>>
-        print(f"""\"{dbargs['custom_url']}\" """")
+        print(f"""dbargs.custom_url \"{dbargs['custom_url']}\"<<>>"""")
         # <<>>
         self.window.set_default_size(*self.prefs['app_window']['window_size'])
         self.window.set_title(version.appname)
