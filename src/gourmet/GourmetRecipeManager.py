@@ -974,7 +974,7 @@ class RecGui (RecIndex, GourmetApplication, ImporterExporter, StuffThatShouldBeP
         if (
                 ("custom_url" in recipeManager.dbargs)
         ):
-            _window_title_ = f"""{version.appname} Using DB \"{recipeManager.dbargs[custom_url]}\"."""
+            _window_title_ = f"""{version.appname} Using DB \"{recipeManager.dbargs["custom_url"]}\"."""
         else:
             _window_title_ = version.appname
         ##print(f"""\n\n*****************************************************************************\n""")"""
