@@ -1,7 +1,7 @@
 
 
 import inspect as INS
-
+import pprint as PP
 import re
 import threading
 from gettext import ngettext
@@ -33,6 +33,7 @@ from gourmet.threadManager import (SuspendableThread, get_thread_manager,
 from gourmet.timer import show_timer
 
 
+PPPP = PP.pprint
 UNDO = 1
 SHOW_TRASH = 2
 
@@ -980,7 +981,7 @@ class RecGui (RecIndex, GourmetApplication, ImporterExporter, StuffThatShouldBeP
         """
         pprint.pprint(object, stream=None, indent=1, width=80, depth=None, *, compact=False, sort_dicts=True, underscore_numbers=False)
         """
-        print(f"""{INS.getmembers(globals())}""")
+        PPPP(INS.getmembers(globals()))
         print(f"""\n***************************************************************************** \n\n""")
         # <<>>
         self.window.set_default_size(*self.prefs['app_window']['window_size'])
