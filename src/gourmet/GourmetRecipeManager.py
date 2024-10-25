@@ -31,7 +31,6 @@ from gourmet.threadManager import (SuspendableThread, get_thread_manager,
 from gourmet.timer import show_timer
 
 
-PPPP = PP.pprint
 UNDO = 1
 SHOW_TRASH = 2
 
