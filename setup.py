@@ -187,7 +187,7 @@ setup(
         'lxml',
         'pillow>=7.0.0',
         'pygobject==3.50.0',
-        'requests==2.25.1',
+        'requests==2.32.3',
         'sqlalchemy==1.3.22',
         'toml==0.10.2',
     ],
