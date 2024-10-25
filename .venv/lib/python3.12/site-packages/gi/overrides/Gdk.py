@@ -27,8 +27,8 @@ from ..module import get_introspection_module
 from gi import PyGIDeprecationWarning, require_version
 
 Gdk = get_introspection_module('Gdk')
-GDK2 = Gdk._version == '2.0'
 GDK3 = Gdk._version == '3.0'
+GDK4 = Gdk._version == '4.0'
 
 __all__ = []
 
@@ -41,7 +41,7 @@ try:
 except (ValueError, ImportError):
     pass
 
-if GDK2 or GDK3:
+if GDK3:
     # Gdk.Color was deprecated since 3.14 and dropped in Gtk-4.0
     class Color(Gdk.Color):
         MAX_VALUE = 65535
@@ -53,7 +53,14 @@ if GDK2 or GDK3:
             self.blue = blue
 
         def __eq__(self, other):
+            if not isinstance(other, Gdk.Color):
+                return False
             return self.equal(other)
+
+        # This is required (even when __eq__ is defined) in order
+        # for != operator to work as expected
+        def __ne__(self, other):
+            return not self == other
 
         def __repr__(self):
             return 'Gdk.Color(red=%d, green=%d, blue=%d)' % (self.red, self.green, self.blue)
@@ -94,7 +101,14 @@ if GDK3:
             self.alpha = alpha
 
         def __eq__(self, other):
+            if not isinstance(other, Gdk.RGBA):
+                return False
             return self.equal(other)
+
+        # This is required (even when __eq__ is defined) in order
+        # for != operator to work as expected
+        def __ne__(self, other):
+            return not self == other
 
         def __repr__(self):
             return 'Gdk.RGBA(red=%f, green=%f, blue=%f, alpha=%f)' % (self.red, self.green, self.blue, self.alpha)
@@ -123,22 +137,7 @@ if GDK3:
     RGBA = override(RGBA)
     __all__.append('RGBA')
 
-if GDK2:
-    class Rectangle(Gdk.Rectangle):
-
-        def __init__(self, x, y, width, height):
-            Gdk.Rectangle.__init__(self)
-            self.x = x
-            self.y = y
-            self.width = width
-            self.height = height
-
-        def __repr__(self):
-            return 'Gdk.Rectangle(x=%d, y=%d, width=%d, height=%d)' % (self.x, self.y, self.height, self.width)
-
-    Rectangle = override(Rectangle)
-    __all__.append('Rectangle')
-elif GDK3:
+if GDK3:
     # Newer GTK/gobject-introspection (3.17.x) include GdkRectangle in the
     # typelib. See https://bugzilla.gnome.org/show_bug.cgi?id=748832 and
     # https://bugzilla.gnome.org/show_bug.cgi?id=748833
@@ -156,14 +155,7 @@ elif GDK3:
         __all__.append('rectangle_intersect')
         __all__.append('rectangle_union')
 
-if GDK2:
-    class Drawable(Gdk.Drawable):
-        def cairo_create(self):
-            return Gdk.cairo_create(self)
-
-    Drawable = override(Drawable)
-    __all__.append('Drawable')
-elif GDK3:
+if GDK3:
     class Window(Gdk.Window):
         def __new__(cls, parent, attributes, attributes_mask):
             # Gdk.Window had to be made abstract,
@@ -179,7 +171,7 @@ elif GDK3:
     Window = override(Window)
     __all__.append('Window')
 
-if GDK2 or GDK3:
+if GDK3:
     Gdk.EventType._2BUTTON_PRESS = getattr(Gdk.EventType, "2BUTTON_PRESS")
     Gdk.EventType._3BUTTON_PRESS = getattr(Gdk.EventType, "3BUTTON_PRESS")
 
@@ -217,9 +209,6 @@ if GDK2 or GDK3:
             Gdk.EventType.MAP: 'any',
             Gdk.EventType.UNMAP: 'any',
         }
-
-        if GDK2:
-            _UNION_MEMBERS[Gdk.EventType.NO_EXPOSE] = 'no_expose'
 
         if hasattr(Gdk.EventType, 'TOUCH_BEGIN'):
             _UNION_MEMBERS.update(
@@ -277,9 +266,6 @@ if GDK2 or GDK3:
                             'EventOwnerChange',
                             'EventWindowState',
                             'EventVisibility']
-
-    if GDK2:
-        event_member_classes.append('EventNoExpose')
 
     if hasattr(Gdk, 'EventTouch'):
         event_member_classes.append('EventTouch')
@@ -342,17 +328,6 @@ if GDK2 or GDK3:
                               PyGIDeprecationWarning)
                 return cls.new_from_pixbuf(*args, **kwds)
 
-            elif total_len == 6:
-                if not GDK2:
-                    # pixmaps don't exist in Gdk 3.0
-                    raise ValueError("Wrong number of parameters")
-
-                warnings.warn('Calling "Gdk.Cursor(source, mask, fg, bg, x, y)" has been deprecated. '
-                              'Please use Gdk.Cursor.new_from_pixmap(source, mask, fg, bg, x, y). '
-                              'See: https://wiki.gnome.org/PyGObject/InitializerDeprecations',
-                              PyGIDeprecationWarning)
-                return cls.new_from_pixmap(*args, **kwds)
-
             else:
                 raise ValueError("Wrong number of parameters")
 
@@ -381,6 +356,37 @@ if GDK2 or GDK3:
 
     Gdk.Atom.__str__ = _gdk_atom_str
     Gdk.Atom.__repr__ = _gdk_atom_repr
+
+
+if GDK4:
+    from gi.repository import Gio
+
+    class FileList(Gdk.FileList):
+
+        if hasattr(Gdk.FileList, "new_from_list"):
+            def __new__(cls, files):
+                files_list = []
+                if isinstance(files, (tuple, list)):
+                    for f in files:
+                        if isinstance(f, Gio.File):
+                            files_list.append(f)
+                        else:
+                            raise TypeError('Constructor requires a list or tuple of Gio.File instances')
+                else:
+                    raise TypeError('Constructor requires a list or tuple of Gio.File instances')
+                return Gdk.FileList.new_from_list(files)
+
+        def __iter__(self):
+            return iter(self.get_files())
+
+        def __len__(self):
+            return len(self.get_files())
+
+        def __getitem__(self, index):
+            return self.get_files()[index]
+
+    FileList = override(FileList)
+    __all__.append('FileList')
 
 
 # constants
@@ -433,6 +439,6 @@ if GDK3:
     SELECTION_TYPE_STRING = Gdk.atom_intern('STRING', True)
     __all__.append('SELECTION_TYPE_STRING')
 
-if GDK2 or GDK3:
+if GDK3:
     import sys
     initialized, argv = Gdk.init_check(sys.argv)

@@ -3,7 +3,6 @@ import types
 import warnings
 import importlib
 import sys
-from pkgutil import get_loader
 
 from gi import PyGIDeprecationWarning
 from gi._gi import CallableInfo, pygobject_new_full
@@ -102,13 +101,8 @@ def load_overrides(introspection_module):
 
     try:
         override_package_name = 'gi.overrides.' + namespace
-
-        # http://bugs.python.org/issue14710
-        try:
-            override_loader = get_loader(override_package_name)
-
-        except AttributeError:
-            override_loader = None
+        spec = importlib.util.find_spec(override_package_name)
+        override_loader = spec.loader if spec is not None else None
 
         # Avoid checking for an ImportError, an override might
         # depend on a missing module thus causing an ImportError
@@ -344,6 +338,16 @@ def strip_boolean_result(method, exc_type=None, exc_str=None, fail_ret=None):
 
 
 def wrap_list_store_sort_func(func):
+
+    def wrap(a, b, *user_data):
+        a = pygobject_new_full(a, False)
+        b = pygobject_new_full(b, False)
+        return func(a, b, *user_data)
+
+    return wrap
+
+
+def wrap_list_store_equal_func(func):
 
     def wrap(a, b, *user_data):
         a = pygobject_new_full(a, False)

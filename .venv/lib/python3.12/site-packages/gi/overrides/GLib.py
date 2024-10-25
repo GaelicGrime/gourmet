@@ -23,7 +23,7 @@ import warnings
 import sys
 import socket
 
-from .._ossighelper import wakeup_on_signal, register_sigint_fallback
+from .._ossighelper import register_sigint_fallback, get_event_loop
 from ..module import get_introspection_module
 from .._gi import (variant_type_from_string, source_new,
                    source_set_callback, io_channel_read)
@@ -493,7 +493,7 @@ class MainLoop(GLib.MainLoop):
 
     def run(self):
         with register_sigint_fallback(self.quit):
-            with wakeup_on_signal():
+            with get_event_loop(self.get_context()).running(self.quit):
                 super(MainLoop, self).run()
 
 
@@ -504,7 +504,8 @@ __all__.append('MainLoop')
 class MainContext(GLib.MainContext):
     # Backwards compatible API with default value
     def iteration(self, may_block=True):
-        return super(MainContext, self).iteration(may_block)
+        with get_event_loop(self).paused():
+            return super(MainContext, self).iteration(may_block)
 
 
 MainContext = override(MainContext)
@@ -525,11 +526,15 @@ class Source(GLib.Source):
 
     def __del__(self):
         if hasattr(self, '__pygi_custom_source'):
+            # We destroy and finalize the box from here, as GLib might hold
+            # a reference (e.g. while the source is pending), delaying the
+            # finalize call until a later point.
             self.destroy()
-            # XXX: We have to unref the underlying source while the Python
-            # wrapper is still valid, so the source can call into the
-            # wrapper methods for the finalized callback.
+            self.finalize()
             self._clear_boxed()
+
+    def finalize(self):
+        pass
 
     def set_callback(self, fn, user_data=None):
         if hasattr(self, '__pygi_custom_source'):
@@ -764,9 +769,6 @@ class IOChannel(GLib.IOChannel):
         if status == GLib.IOStatus.NORMAL:
             return buf
         raise StopIteration
-
-    # Python 2.x compatibility
-    next = __next__
 
 
 IOChannel = override(IOChannel)
