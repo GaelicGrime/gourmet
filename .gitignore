@@ -14,7 +14,7 @@ gourmet.desktop
 
 
 # Virtual environments
-/env/
+/.venv/
 
 
 # Editors
