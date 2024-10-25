@@ -186,7 +186,7 @@ setup(
         'beautifulsoup4==4.9.3',
         'lxml',
         'pillow>=7.0.0',
-        'pygobject==3.40.1',
+        'pygobject==3.50.0',
         'requests==2.25.1',
         'sqlalchemy==1.3.22',
         'toml==0.10.2',
