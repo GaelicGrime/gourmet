@@ -1,0 +1,488 @@
+[
+  {
+    "K_PATH": "/rcr/1-ftp/test/test1",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "test1",
+    "K_JUST_FILENAME": "test1",
+    "K_EXTENSION": "",
+    "K_NUMS": -1
+  },
+  {
+    "K_PATH": "/rcr/1-ftp/test/test0",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "test0",
+    "K_JUST_FILENAME": "test0",
+    "K_EXTENSION": "", "K_NUMS": -1
+  },
+  {
+    "K_PATH": "/rcr/1-ftp/test/A_0001.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0001.jpg",
+    "K_JUST_FILENAME": "A_0001",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+  },
+  {
+    "K_PATH": "/rcr/1-ftp/test/A_0002.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0002.jpg",
+    "K_JUST_FILENAME": "A_0002",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+    },
+    {
+    "K_PATH": "/rcr/1-ftp/test/A_0003.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0003.jpg",
+    "K_JUST_FILENAME": "A_0003",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+  },
+  {
+    "K_PATH": "/rcr/1-ftp/test/A_0004.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0004.jpg",
+    "K_JUST_FILENAME": "A_0004",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+  },
+  {
+    "K_PATH": "/rcr/1-ftp/test/A_0005.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0005.jpg",
+    "K_JUST_FILENAME": "A_0005",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+    },
+    {
+    "K_PATH": "/rcr/1-ftp/test/A_0006.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0006.jpg",
+    "K_JUST_FILENAME": "A_0006",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+    },
+    {
+      "K_PATH": "/rcr/1-ftp/test/A_0007.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0007.jpg",
+    "K_JUST_FILENAME": "A_0007",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+  },
+  {
+    "K_PATH": "/rcr/1-ftp/test/A_0008.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0008.jpg",
+    "K_JUST_FILENAME": "A_0008",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+    },
+    {
+    "K_PATH": "/rcr/1-ftp/test/A_0009.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0009.jpg",
+    "K_JUST_FILENAME": "A_0009",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+  },
+  {
+    "K_PATH": "/rcr/1-ftp/test/A_0010.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0010.jpg",
+    "K_JUST_FILENAME": "A_0010",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+  },
+  {
+    "K_PATH": "/rcr/1-ftp/test/A_0011.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0011.jpg",
+    "K_JUST_FILENAME": "A_0011",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+    },
+    {
+    "K_PATH": "/rcr/1-ftp/test/A_0012.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0012.jpg",
+    "K_JUST_FILENAME": "A_0012",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+  },
+  {
+    "K_PATH": "/rcr/1-ftp/test/A_0013.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0013.jpg",
+    "K_JUST_FILENAME": "A_0013",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+  },
+  {
+    "K_PATH": "/rcr/1-ftp/test/A_0014.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0014.jpg",
+    "K_JUST_FILENAME": "A_0014",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+    },
+    {
+    "K_PATH": "/rcr/1-ftp/test/A_0015.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0015.jpg",
+    "K_JUST_FILENAME": "A_0015",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+  },
+  {
+    "K_PATH": "/rcr/1-ftp/test/A_0016.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0016.jpg",
+    "K_JUST_FILENAME": "A_0016",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+  },
+  {
+    "K_PATH": "/rcr/1-ftp/test/A_0017.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0017.jpg",
+    "K_JUST_FILENAME": "A_0017",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+    },
+    {
+    "K_PATH": "/rcr/1-ftp/test/A_0018.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0018.jpg",
+    "K_JUST_FILENAME": "A_0018",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+  },
+  {
+    "K_PATH": "/rcr/1-ftp/test/A_0019.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0019.jpg",
+    "K_JUST_FILENAME": "A_0019",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+  },
+  {
+    "K_PATH": "/rcr/1-ftp/test/A_0020.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0020.jpg",
+    "K_JUST_FILENAME": "A_0020",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+  },
+  {
+    "K_PATH": "/rcr/1-ftp/test/A_0021.jpg",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "A_0021.jpg",
+    "K_JUST_FILENAME": "A_0021",
+    "K_EXTENSION": ".jpg",
+    "K_NUMS": -1
+  }
+]
+
+
+[
+  {
+    "K_PATH": "/rcr/1-ftp/test/test1",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "test1",
+    "K_JUST_FILENAME": "test1",
+    "K_EXTENSION": "",
+    "K_NUMS": -1
+  },
+  {
+    "K_PATH": "/rcr/1-ftp/test/test0",
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_FILENAME": "test0",
+    "K_JUST_FILENAME": "test0",
+    "K_EXTENSION": "",
+    "K_NUMS": -1
+  }
+]
+
+
+[
+  {
+    "K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/CSCF.py",
+    "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF",
+    "K_FILENAME": "CSCF.py",
+    "K_JUST_FILENAME": "CSCF",
+    "K_EXTENSION": ".py",
+    "K_NUMS": -1
+  },
+  {
+    "K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/__init__.py",
+    "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF",
+    "K_FILENAME": "__init__.py",
+    "K_JUST_FILENAME": "__init__",
+    "K_EXTENSION": ".py",
+    "K_NUMS": -1
+  },
+  {
+    "K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/__INIT__.py",
+    "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF",
+    "K_FILENAME": "__INIT__.py",
+    "K_JUST_FILENAME": "__INIT__",
+    "K_EXTENSION": ".py",
+    "K_NUMS": -1
+  }
+]
+
+
+[
+  {
+    "K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_00_ITERABLES.py",
+    "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D",
+    "K_FILENAME": "_00_ITERABLES.py",
+    "K_JUST_FILENAME": "_00_ITERABLES",
+    "K_EXTENSION": ".py",
+    "K_NUMS": 0}, {"K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_00_MAKE_ALL.py", "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D", "K_FILENAME": "_00_MAKE_ALL.py", "K_JUST_FILENAME": "_00_MAKE_ALL", "K_EXTENSION": ".py", "K_NUMS": 0}, {"K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_00_PL_MKDIR.py", "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D", "K_FILENAME": "_00_PL_MKDIR.py", "K_JUST_FILENAME": "_00_PL_MKDIR", "K_EXTENSION": ".py", "K_NUMS": 0}, {"K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_00_SHUTIL.py", "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D", "K_FILENAME": "_00_SHUTIL.py", "K_JUST_FILENAME": "_00_SHUTIL", "K_EXTENSION": ".py", "K_NUMS": 0}, {"K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_00_TIME_DT.py", "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D", "K_FILENAME": "_00_TIME_DT.py", "K_JUST_FILENAME": "_00_TIME_DT", "K_EXTENSION": ".py", "K_NUMS": 0}, {"K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_00_TIME_HMS.py", "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D", "K_FILENAME": "_00_TIME_HMS.py", "K_JUST_FILENAME": "_00_TIME_HMS", "K_EXTENSION": ".py", "K_NUMS": 0}, {"K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_00_TIME_INT.py", "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D", "K_FILENAME": "_00_TIME_INT.py", "K_JUST_FILENAME": "_00_TIME_INT", "K_EXTENSION": ".py", "K_NUMS": 0}, {"K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_00_TIME_TIME.py", "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D", "K_FILENAME": "_00_TIME_TIME.py", "K_JUST_FILENAME": "_00_TIME_TIME", "K_EXTENSION": ".py", "K_NUMS": 0}, {"K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/__dynamicImport__.py", "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D", "K_FILENAME": "__dynamicImport__.py", "K_JUST_FILENAME": "__dynamicImport__", "K_EXTENSION": ".py", "K_NUMS": 0}, {"K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/__init__.py", "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D", "K_FILENAME": "__init__.py", "K_JUST_FILENAME": "__init__", "K_EXTENSION": ".py", "K_NUMS": 0}, {"K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/debugPlay.py", "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D", "K_FILENAME": "debugPlay.py", "K_JUST_FILENAME": "debugPlay", "K_EXTENSION": ".py", "K_NUMS": 0}, {"K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_00_DEBUG.py", "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D", "K_FILENAME": "_00_DEBUG.py", "K_JUST_FILENAME": "_00_DEBUG", "K_EXTENSION": ".py", "K_NUMS": 0}, {"K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_00_GET_ROOT_DIR.py", "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D", "K_FILENAME": "_00_GET_ROOT_DIR.py", "K_JUST_FILENAME": "_00_GET_ROOT_DIR", "K_EXTENSION": ".py", "K_NUMS": 0
+  },
+  {
+    "K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_00_GMT.py", "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D", "K_FILENAME": "_00_GMT.py", "K_JUST_FILENAME": "_00_GMT", "K_EXTENSION": ".py", "K_NUMS": 0
+  },
+  {
+    "K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_01_FILESYSTEM.py",
+    "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D",
+    "K_FILENAME": "_01_FILESYSTEM.py",
+    "K_JUST_FILENAME": "_01_FILESYSTEM",
+    "K_EXTENSION": ".py",
+    "K_NUMS": 1
+  },
+  {
+    "K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_01_HASHES.py", "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D", "K_FILENAME": "_01_HASHES.py", "K_JUST_FILENAME": "_01_HASHES", "K_EXTENSION": ".py", "K_NUMS": 1}, {"K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_00_STRING_STUFF.py", "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D", "K_FILENAME": "_00_STRING_STUFF.py", "K_JUST_FILENAME": "_00_STRING_STUFF", "K_EXTENSION": ".py", "K_NUMS": 0}, {"K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_00_PATHLIB.py", "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D", "K_FILENAME": "_00_PATHLIB.py", "K_JUST_FILENAME": "_00_PATHLIB", "K_EXTENSION": ".py", "K_NUMS": 0}, {"K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_00_SCREEN.py", "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D", "K_FILENAME": "_00_SCREEN.py", "K_JUST_FILENAME": "_00_SCREEN", "K_EXTENSION": ".py", "K_NUMS": 0}, {"K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_00_OS.py", "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D", "K_FILENAME": "_00_OS.py", "K_JUST_FILENAME": "_00_OS", "K_EXTENSION": ".py", "K_NUMS": 0}, {"K_PATH": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_00_OS_VARS.py", "K_DIR": "/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D", "K_FILENAME": "_00_OS_VARS.py", "K_JUST_FILENAME": "_00_OS_VARS", "K_EXTENSION": ".py", "K_NUMS": 0}]
+
+
+_entry_
+  [
+    ("__class__", <class "dict">),
+    ("__class_getitem__", <built-in method __class_getitem__ of type object at 0x7f6c3b4c2620>),
+    ("__contains__", <built-in method __contains__ of dict object at 0x7f6c3a8cc780>),
+    ("__delattr__", <method-wrapper "__delattr__" of dict object at 0x7f6c3a8cc780>),
+    ("__delitem__", <method-wrapper "__delitem__" of dict object at 0x7f6c3a8cc780>),
+    ("__dir__", <built-in method __dir__ of dict object at 0x7f6c3a8cc780>),
+    ("__doc__", "dict() -> new empty dictionary\ndict(mapping) -> new dictionary initialized from a mapping object"s (key, value) pairs\ndict(iterable) -> new dictionary initialized as if via:\n    d = {}\n    for k, v in iterable:\n        d[k] = v\ndict(**kwargs) -> new dictionary initialized with the name=value pairs\n    in the keyword argument list.  For example:  dict(one=1, two=2)"),
+    ("__eq__", <method-wrapper "__eq__" of dict object at 0x7f6c3a8cc780>),
+    ("__format__", <built-in method __format__ of dict object at 0x7f6c3a8cc780>),
+    ("__ge__", <method-wrapper "__ge__" of dict object at 0x7f6c3a8cc780>),
+    ("__getattribute__", <method-wrapper "__getattribute__" of dict object at 0x7f6c3a8cc780>),
+    ("__getitem__", <built-in method __getitem__ of dict object at 0x7f6c3a8cc780>),
+    ("__gt__", <method-wrapper "__gt__" of dict object at 0x7f6c3a8cc780>),
+    ("__hash__", None),
+    ("__init__", <method-wrapper "__init__" of dict object at 0x7f6c3a8cc780>),
+    ("__init_subclass__", <built-in method __init_subclass__ of type object at 0x7f6c3b4c2620>),
+    ("__ior__", <method-wrapper "__ior__" of dict object at 0x7f6c3a8cc780>),
+    ("__iter__", <method-wrapper "__iter__" of dict object at 0x7f6c3a8cc780>),
+    ("__le__", <method-wrapper "__le__" of dict object at 0x7f6c3a8cc780>),
+    ("__len__", <method-wrapper "__len__" of dict object at 0x7f6c3a8cc780>),
+    ("__lt__", <method-wrapper "__lt__" of dict object at 0x7f6c3a8cc780>),
+    ("__ne__", <method-wrapper "__ne__" of dict object at 0x7f6c3a8cc780>),
+    ("__new__", <built-in method __new__ of type object at 0x7f6c3b4c2620>),
+    ("__or__", <method-wrapper "__or__" of dict object at 0x7f6c3a8cc780>),
+    ("__reduce__", <built-in method __reduce__ of dict object at 0x7f6c3a8cc780>),
+    ("__reduce_ex__", <built-in method __reduce_ex__ of dict object at 0x7f6c3a8cc780>),
+    ("__repr__", <method-wrapper "__repr__" of dict object at 0x7f6c3a8cc780>),
+    ("__reversed__", <built-in method __reversed__ of dict object at 0x7f6c3a8cc780>),
+    ("__ror__", <method-wrapper "__ror__" of dict object at 0x7f6c3a8cc780>),  ("__setattr__", <method-wrapper "__setattr__" of dict object at 0x7f6c3a8cc780>),
+    ("__setitem__", <method-wrapper "__setitem__" of dict object at 0x7f6c3a8cc780>),
+    ("__sizeof__", <built-in method __sizeof__ of dict object at 0x7f6c3a8cc780>),
+    ("__str__", <method-wrapper "__str__" of dict object at 0x7f6c3a8cc780>),
+    ("__subclasshook__", <built-in method __subclasshook__ of type object at 0x7f6c3b4c2620>),
+    ("clear", <built-in method clear of dict object at 0x7f6c3a8cc780>),
+    ("copy", <built-in method copy of dict object at 0x7f6c3a8cc780>),
+    ("fromkeys", <built-in method fromkeys of type object at 0x7f6c3b4c2620>),
+    ("get", <built-in method get of dict object at 0x7f6c3a8cc780>),
+    ("items", <built-in method items of dict object at 0x7f6c3a8cc780>),
+    ("keys", <built-in method keys of dict object at 0x7f6c3a8cc780>),
+    ("pop", <built-in method pop of dict object at 0x7f6c3a8cc780>),
+    ("popitem", <built-in method popitem of dict object at 0x7f6c3a8cc780>),
+    ("setdefault", <built-in method setdefault of dict object at 0x7f6c3a8cc780>),
+    ("update", <built-in method update of dict object at 0x7f6c3a8cc780>),
+    ("values", <built-in method values of dict object at 0x7f6c3a8cc780>)
+  ]
+
+
+
+_entry_
+[
+  ("__class__", <class "posix.DirEntry">),
+  ("__class_getitem__", <built-in method __class_getitem__ of type object at 0x555f9dce8240>),
+  ("__delattr__", <method-wrapper "__delattr__" of posix.DirEntry object at 0x7f58a997b640>),
+  ("__dir__", <built-in method __dir__ of posix.DirEntry object at 0x7f58a997b640>),
+  ("__doc__", None),
+  ("__eq__", <method-wrapper "__eq__" of posix.DirEntry object at 0x7f58a997b640>),
+  ("__format__", <built-in method __format__ of posix.DirEntry object at 0x7f58a997b640>),
+  ("__fspath__", <built-in method __fspath__ of posix.DirEntry object at 0x7f58a997b640>),
+  ("__ge__", <method-wrapper "__ge__" of posix.DirEntry object at 0x7f58a997b640>),
+  ("__getattribute__", <method-wrapper "__getattribute__" of posix.DirEntry object at 0x7f58a997b640>),
+  ("__gt__", <method-wrapper "__gt__" of posix.DirEntry object at 0x7f58a997b640>),
+  ("__hash__", <method-wrapper "__hash__" of posix.DirEntry object at 0x7f58a997b640>),
+  ("__init__", <method-wrapper "__init__" of posix.DirEntry object at 0x7f58a997b640>),
+  ("__init_subclass__", <built-in method __init_subclass__ of type object at 0x555f9dce8240>),
+  ("__le__", <method-wrapper "__le__" of posix.DirEntry object at 0x7f58a997b640>),
+  ("__lt__", <method-wrapper "__lt__" of posix.DirEntry object at 0x7f58a997b640>),
+  ("__module__", "posix"), ("__ne__", <method-wrapper "__ne__" of posix.DirEntry object at 0x7f58a997b640>),
+  ("__new__", <built-in method __new__ of type object at 0x7f58aa52e260>),
+  ("__reduce__", <built-in method __reduce__ of posix.DirEntry object at 0x7f58a997b640>),
+  ("__reduce_ex__", <built-in method __reduce_ex__ of posix.DirEntry object at 0x7f58a997b640>),
+  ("__repr__", <method-wrapper "__repr__" of posix.DirEntry object at 0x7f58a997b640>),
+  ("__setattr__", <method-wrapper "__setattr__" of posix.DirEntry object at 0x7f58a997b640>),
+  ("__sizeof__", <built-in method __sizeof__ of posix.DirEntry object at 0x7f58a997b640>),
+  ("__str__", <method-wrapper "__str__" of posix.DirEntry object at 0x7f58a997b640>),
+  ("__subclasshook__", <built-in method __subclasshook__ of type object at 0x555f9dce8240>),
+  ("inode", <built-in method inode of posix.DirEntry object at 0x7f58a997b640>),
+  ("is_dir", <built-in method is_dir of posix.DirEntry object at 0x7f58a997b640>),
+  ("is_file", <built-in method is_file of posix.DirEntry object at 0x7f58a997b640>),
+  ("is_symlink", <built-in method is_symlink of posix.DirEntry object at 0x7f58a997b640>),
+  ("name", "test1"),
+  ("path", "/rcr/1-ftp/test/test1"),
+  ("stat", <built-in method stat of posix.DirEntry object at 0x7f58a997b640>)]
+
+
+
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": "", "K_FILENAME": "test1", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": True, "K_IS_A_FILE": False, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "test1", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/test1", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": "", "K_FILENAME": "test0", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": True, "K_IS_A_FILE": False, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "test0", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/test0", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0001.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0001", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0001.jpg", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0002.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0002", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0002.jpg", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0003.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0003", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0003.jpg", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0004.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0004", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0004.jpg", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0005.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0005", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0005.jpg", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0006.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0006", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0006.jpg", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0007.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0007", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0007.jpg", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0008.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0008", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0008.jpg", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0009.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0009", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0009.jpg", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0010.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0010", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0010.jpg", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0011.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0011", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0011.jpg", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0012.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0012", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0012.jpg", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0013.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0013", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0013.jpg", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0014.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0014", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0014.jpg", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0015.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0015", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0015.jpg", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0016.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0016", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0016.jpg", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0017.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0017", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0017.jpg", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0018.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0018", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0018.jpg", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0019.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0019", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0019.jpg", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0020.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0020", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0020.jpg", "K_SIZE": 0, "K_UID": 0}
+_thisEntry_ {
+  "K_TIME_ACCESSED": 0,
+  "K_BLOCKS_ALLOCATED": 0,
+  "K_TIME_META_MODIFIED": 0,
+  "K_DIR": "/rcr/1-ftp/test",
+  "K_EXTENSION": ".jpg",
+  "K_FILENAME": "A_0021.jpg",
+  "K_FILETYPE": "KFT_UNKNOWN",
+  "K_GID": 0,
+  "K_I_CAN_EXECUTE": False,
+  "K_I_CAN_READ": False,
+  "K_I_CAN_WRITE": False,
+  "K_IS_A_DIR": False,
+  "K_IS_A_FILE": True,
+  "K_IS_A_KNOWN_FILE_TYPE": False,
+  "K_IS_A_SYMLINK": False,
+  "K_JUST_FILENAME": "A_0021",
+  "K_MODE": 0,
+  "K_MTIME": 0,
+  "K_NUMS": 0,
+  "K_PATH": "/rcr/1-ftp/test/A_0021.jpg",
+  "K_SIZE": 0,
+  "K_UID":
+}
+
+[{"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": "", "K_FILENAME": "test1", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": True, "K_IS_A_FILE": False, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "test1", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/test1", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": "", "K_FILENAME": "test0", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": True, "K_IS_A_FILE": False, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "test0", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/test0", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0001.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0001", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0001.jpg", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0002.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0002", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0002.jpg", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0003.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0003", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0003.jpg", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0004.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0004", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0004.jpg", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0005.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0005", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0005.jpg", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0006.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0006", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0006.jpg", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0007.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0007", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0007.jpg", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0008.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0008", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0008.jpg", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0009.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0009", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0009.jpg", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0010.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0010", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0010.jpg", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0011.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0011", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0011.jpg", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0012.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0012", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0012.jpg", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0013.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0013", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0013.jpg", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0014.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0014", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0014.jpg", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0015.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0015", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0015.jpg", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0016.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0016", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0016.jpg", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0017.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0017", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0017.jpg", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0018.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0018", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0018.jpg", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0019.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0019", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0019.jpg", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0020.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0020", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0020.jpg", "K_SIZE": 0, "K_UID": 0}, {"K_TIME_ACCESSED": 0, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 0, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0021.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 0, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": False, "K_I_CAN_WRITE": False, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0021", "K_MODE": 0, "K_MTIME": 0, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0021.jpg", "K_SIZE": 0, "K_UID": 0}]
+
+
+st_atime
+    time of last access
+
+st_atime_ns
+    time of last access in nanoseconds
+
+st_blksize
+    blocksize for filesystem I/O
+
+st_blocks
+    number of blocks allocated
+
+st_ctime
+    time of last change
+
+st_ctime_ns
+    time of last change in nanoseconds
+
+st_dev
+    device
+
+st_gid
+    group ID of owner
+
+st_ino
+    inode
+
+st_mode
+    protection bits
+
+st_mtime
+    time of last modification
+
+st_mtime_ns
+    time of last modification in nanoseconds
+
+st_nlink
+    number of hard links
+
+st_rdev
+    device type (if inode device)
+
+st_size
+    total size, in bytes
+
+st_uid
+    user ID of owner
+
+
+[
+  {
+    "K_TIME_ACCESSED": 1651026212.7840905,
+    "K_BLOCKS_ALLOCATED": 0,
+    "K_TIME_META_MODIFIED": 1651026207.4674242,
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_EXTENSION": "",
+    "K_FILENAME": "test1",
+    "K_FILETYPE": "KFT_UNKNOWN",
+    "K_GID": 1000, "K_I_CAN_EXECUTE": True, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": True, "K_IS_A_FILE": False, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "test1", "K_MODE": 0, "K_TIME_META_MODIFIED": 1651026207.4674242, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/test1", "K_SIZE": 402, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025879.46077, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 1651025872.6607702, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": "", "K_FILENAME": "test0", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": True, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": True, "K_IS_A_FILE": False, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "test0", "K_MODE": 0, "K_TIME_META_MODIFIED": 1651025872.6607702, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/test0", "K_SIZE": 766, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025796.110773, "K_BLOCKS_ALLOCATED": 672, "K_TIME_META_MODIFIED": 1651025783.0707736, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0001.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0001", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635124864.3488472, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0001.jpg", "K_SIZE": 343741, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025796.190773, "K_BLOCKS_ALLOCATED": 1136, "K_TIME_META_MODIFIED": 1651025783.0974402, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0002.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0002", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635124884.6454072, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0002.jpg", "K_SIZE": 580144, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025796.2441065, "K_BLOCKS_ALLOCATED": 1672, "K_TIME_META_MODIFIED": 1651025783.0974402, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0003.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0003", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635125186.5004258, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0003.jpg", "K_SIZE": 853030, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025796.5207732, "K_BLOCKS_ALLOCATED": 1240, "K_TIME_META_MODIFIED": 1651025783.1007736, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0004.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0004", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635125138.2973616, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0004.jpg", "K_SIZE": 632015, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025796.7341063, "K_BLOCKS_ALLOCATED": 768, "K_TIME_META_MODIFIED": 1651025783.1007736, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0005.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0005", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635124939.2851186, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0005.jpg", "K_SIZE": 392536, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025797.470773, "K_BLOCKS_ALLOCATED": 1448, "K_TIME_META_MODIFIED": 1651025783.104107, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0006.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0006", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635125283.6632142, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0006.jpg", "K_SIZE": 740529, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025797.7574396, "K_BLOCKS_ALLOCATED": 6912, "K_TIME_META_MODIFIED": 1651025783.104107, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0007.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0007", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635125096.877592, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0007.jpg", "K_SIZE": 3537781, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025797.5674398, "K_BLOCKS_ALLOCATED": 1216, "K_TIME_META_MODIFIED": 1651025783.1074402, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0008.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0008", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635125173.0671675, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0008.jpg", "K_SIZE": 620327, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025796.8141065, "K_BLOCKS_ALLOCATED": 680, "K_TIME_META_MODIFIED": 1651025783.1074402, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0009.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0009", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635125295.5331473, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0009.jpg", "K_SIZE": 348047, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025798.140773, "K_BLOCKS_ALLOCATED": 1320, "K_TIME_META_MODIFIED": 1651025783.1074402, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0010.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0010", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635124940.638445, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0010.jpg", "K_SIZE": 673504, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025798.2074397, "K_BLOCKS_ALLOCATED": 656, "K_TIME_META_MODIFIED": 1651025783.1107736, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0011.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0011", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635125305.3964252, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0011.jpg", "K_SIZE": 333114, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025798.2974396, "K_BLOCKS_ALLOCATED": 5392, "K_TIME_META_MODIFIED": 1651025783.1107736, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0012.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0012", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635124819.2024171, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0012.jpg", "K_SIZE": 2756940, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025798.450773, "K_BLOCKS_ALLOCATED": 2232, "K_TIME_META_MODIFIED": 1651025783.114107, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0013.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0013", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635125284.0698786, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0013.jpg", "K_SIZE": 1141920, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025798.550773, "K_BLOCKS_ALLOCATED": 432, "K_TIME_META_MODIFIED": 1651025783.114107, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0014.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0014", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635124957.6616879, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0014.jpg", "K_SIZE": 217501, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025798.8541064, "K_BLOCKS_ALLOCATED": 336, "K_TIME_META_MODIFIED": 1651025783.114107, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0015.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0015", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635124874.1021292, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0015.jpg", "K_SIZE": 169932, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025798.9541063, "K_BLOCKS_ALLOCATED": 1592, "K_TIME_META_MODIFIED": 1651025783.1174402, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0016.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0016", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635124799.269188, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0016.jpg", "K_SIZE": 814547, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025799.6074398, "K_BLOCKS_ALLOCATED": 8216, "K_TIME_META_MODIFIED": 1651025783.1174402, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0017.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0017", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635124972.108278, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0017.jpg", "K_SIZE": 4203455, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025800.020773, "K_BLOCKS_ALLOCATED": 1408, "K_TIME_META_MODIFIED": 1651025783.1207736, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0018.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0018", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635124911.0652678, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0018.jpg", "K_SIZE": 718895, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025800.6241062, "K_BLOCKS_ALLOCATED": 8488, "K_TIME_META_MODIFIED": 1651025783.1207736, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0019.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0019", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635125226.3168695, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0019.jpg", "K_SIZE": 4345203, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025801.9841063, "K_BLOCKS_ALLOCATED": 752, "K_TIME_META_MODIFIED": 1651025783.124107, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0020.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0020", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635125135.1373792, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0020.jpg", "K_SIZE": 383039, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025803.7874396, "K_BLOCKS_ALLOCATED": 1296, "K_TIME_META_MODIFIED": 1651025783.124107, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0021.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0021", "K_MODE": 0, "K_TIME_META_MODIFIED": 1635124780.1359544, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0021.jpg", "K_SIZE": 662804, "K_UID": 1000}]
+
+
+[
+  {
+    "K_TIME_ACCESSED": 1651026212.7840905,
+    "K_BLOCKS_ALLOCATED": 0,
+    "K_TIME_META_MODIFIED": 1651026207.4674242,
+    "K_DIR": "/rcr/1-ftp/test",
+    "K_EXTENSION": "",
+    "K_FILENAME": "test1",
+    "K_FILETYPE": "KFT_UNKNOWN",
+    "K_GID": 1000,
+    "K_I_CAN_EXECUTE": True,
+    "K_I_CAN_READ": True,
+    "K_I_CAN_WRITE": True,
+    "K_IS_A_DIR": True,
+    "K_IS_A_FILE": False,
+    "K_IS_A_KNOWN_FILE_TYPE": False,
+    "K_IS_A_SYMLINK": False,
+    "K_JUST_FILENAME": "test1",
+    "K_MODE": 511,
+    "K_TIME_META_MODIFIED": 1651026207.4674242,
+    "K_NUMS": 0,
+    "K_PATH": "/rcr/1-ftp/test/test1",
+    "K_SIZE": 402,
+    "K_UID": 1000
+  },
+  {"K_TIME_ACCESSED": 1651025879.46077, "K_BLOCKS_ALLOCATED": 0, "K_TIME_META_MODIFIED": 1651025872.6607702, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": "", "K_FILENAME": "test0", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": True, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": True, "K_IS_A_FILE": False, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "test0", "K_MODE": 511, "K_TIME_META_MODIFIED": 1651025872.6607702, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/test0", "K_SIZE": 766, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025796.110773, "K_BLOCKS_ALLOCATED": 672, "K_TIME_META_MODIFIED": 1651025783.0707736, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0001.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0001", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635124864.3488472, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0001.jpg", "K_SIZE": 343741, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025796.190773, "K_BLOCKS_ALLOCATED": 1136, "K_TIME_META_MODIFIED": 1651025783.0974402, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0002.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0002", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635124884.6454072, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0002.jpg", "K_SIZE": 580144, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025796.2441065, "K_BLOCKS_ALLOCATED": 1672, "K_TIME_META_MODIFIED": 1651025783.0974402, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0003.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0003", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635125186.5004258, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0003.jpg", "K_SIZE": 853030, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025796.5207732, "K_BLOCKS_ALLOCATED": 1240, "K_TIME_META_MODIFIED": 1651025783.1007736, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0004.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0004", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635125138.2973616, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0004.jpg", "K_SIZE": 632015, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025796.7341063, "K_BLOCKS_ALLOCATED": 768, "K_TIME_META_MODIFIED": 1651025783.1007736, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0005.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0005", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635124939.2851186, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0005.jpg", "K_SIZE": 392536, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025797.470773, "K_BLOCKS_ALLOCATED": 1448, "K_TIME_META_MODIFIED": 1651025783.104107, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0006.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0006", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635125283.6632142, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0006.jpg", "K_SIZE": 740529, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025797.7574396, "K_BLOCKS_ALLOCATED": 6912, "K_TIME_META_MODIFIED": 1651025783.104107, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0007.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0007", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635125096.877592, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0007.jpg", "K_SIZE": 3537781, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025797.5674398, "K_BLOCKS_ALLOCATED": 1216, "K_TIME_META_MODIFIED": 1651025783.1074402, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0008.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0008", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635125173.0671675, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0008.jpg", "K_SIZE": 620327, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025796.8141065, "K_BLOCKS_ALLOCATED": 680, "K_TIME_META_MODIFIED": 1651025783.1074402, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0009.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0009", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635125295.5331473, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0009.jpg", "K_SIZE": 348047, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025798.140773, "K_BLOCKS_ALLOCATED": 1320, "K_TIME_META_MODIFIED": 1651025783.1074402, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0010.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0010", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635124940.638445, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0010.jpg", "K_SIZE": 673504, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025798.2074397, "K_BLOCKS_ALLOCATED": 656, "K_TIME_META_MODIFIED": 1651025783.1107736, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0011.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0011", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635125305.3964252, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0011.jpg", "K_SIZE": 333114, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025798.2974396, "K_BLOCKS_ALLOCATED": 5392, "K_TIME_META_MODIFIED": 1651025783.1107736, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0012.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0012", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635124819.2024171, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0012.jpg", "K_SIZE": 2756940, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025798.450773, "K_BLOCKS_ALLOCATED": 2232, "K_TIME_META_MODIFIED": 1651025783.114107, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0013.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0013", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635125284.0698786, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0013.jpg", "K_SIZE": 1141920, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025798.550773, "K_BLOCKS_ALLOCATED": 432, "K_TIME_META_MODIFIED": 1651025783.114107, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0014.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0014", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635124957.6616879, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0014.jpg", "K_SIZE": 217501, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025798.8541064, "K_BLOCKS_ALLOCATED": 336, "K_TIME_META_MODIFIED": 1651025783.114107, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0015.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0015", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635124874.1021292, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0015.jpg", "K_SIZE": 169932, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025798.9541063, "K_BLOCKS_ALLOCATED": 1592, "K_TIME_META_MODIFIED": 1651025783.1174402, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0016.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0016", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635124799.269188, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0016.jpg", "K_SIZE": 814547, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025799.6074398, "K_BLOCKS_ALLOCATED": 8216, "K_TIME_META_MODIFIED": 1651025783.1174402, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0017.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0017", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635124972.108278, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0017.jpg", "K_SIZE": 4203455, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025800.020773, "K_BLOCKS_ALLOCATED": 1408, "K_TIME_META_MODIFIED": 1651025783.1207736, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0018.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0018", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635124911.0652678, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0018.jpg", "K_SIZE": 718895, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025800.6241062, "K_BLOCKS_ALLOCATED": 8488, "K_TIME_META_MODIFIED": 1651025783.1207736, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0019.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0019", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635125226.3168695, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0019.jpg", "K_SIZE": 4345203, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025801.9841063, "K_BLOCKS_ALLOCATED": 752, "K_TIME_META_MODIFIED": 1651025783.124107, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0020.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0020", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635125135.1373792, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0020.jpg", "K_SIZE": 383039, "K_UID": 1000}, {"K_TIME_ACCESSED": 1651025803.7874396, "K_BLOCKS_ALLOCATED": 1296, "K_TIME_META_MODIFIED": 1651025783.124107, "K_DIR": "/rcr/1-ftp/test", "K_EXTENSION": ".jpg", "K_FILENAME": "A_0021.jpg", "K_FILETYPE": "KFT_UNKNOWN", "K_GID": 1000, "K_I_CAN_EXECUTE": False, "K_I_CAN_READ": True, "K_I_CAN_WRITE": True, "K_IS_A_DIR": False, "K_IS_A_FILE": True, "K_IS_A_KNOWN_FILE_TYPE": False, "K_IS_A_SYMLINK": False, "K_JUST_FILENAME": "A_0021", "K_MODE": 511, "K_TIME_META_MODIFIED": 1635124780.1359544, "K_NUMS": 0, "K_PATH": "/rcr/1-ftp/test/A_0021.jpg", "K_SIZE": 662804, "K_UID": 1000}]
+
+
+
+
+#

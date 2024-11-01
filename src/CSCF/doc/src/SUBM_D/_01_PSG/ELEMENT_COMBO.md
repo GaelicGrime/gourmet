@@ -1,0 +1,122 @@
+  - Get = get\(
+    - self\)
+  - Update = update\(
+    - self, 
+    - value=None, 
+    - values=None, 
+    - set_to_index=None, 
+    - disabled=None, 
+    - readonly=None, 
+    - font=None, 
+    - visible=None, 
+    - size=\(None, None\)\)
+  - \_\_init\_\_\(
+    - self, 
+    - values, 
+    - default_value=None, 
+    - size=\(None, None\), 
+    - s=\(None, None\), 
+    - auto_size_text=None, 
+    - background_color=None, 
+    - text_color=None, 
+    - button_background_color=None, 
+    - button_arrow_color=None, 
+    - bind_return_key=False, 
+    - change_submits=False, 
+    - enable_events=False, 
+    - disabled=False, 
+    - key=None, 
+    - k=None, 
+    - pad=None, 
+    - p=None, 
+    - expand_x=False, 
+    - expand_y=False, 
+    - tooltip=None, 
+    - readonly=False, 
+    - font=None, 
+    - visible=True, 
+    - metadata=None\)
+      - :param values:                  values to choose. While displayed as text, the items returned are what the caller supplied, not text
+      - :type values:                   List\[Any\] or Tuple\[Any\]
+      - :param default_value:           Choice to be displayed as initial value. Must match one of values variable contents
+      - :type default_value:            \(Any\)
+      - :param size:                    width, height. Width = characters-wide, height = NOTE it's the number of entries to show in the list. If an Int is passed rather than a tuple, then height is auto-set to 1 and width is value of the int
+      - :type size:                     \(int, int\)  | \(None, None\) | int
+      - :param s:                       Same as size parameter.  It's an alias. If EITHER of them are set, then the one that's set will be used. If BOTH are set, size will be used
+      - :type s:                        \(int, int\)  | \(None, None\) | int
+      - :param auto_size_text:          True if element should be the same size as the contents
+      - :type auto_size_text:           \(bool\)
+      - :param background_color:        color of background
+      - :type background_color:         \(str\)
+      - :param text_color:              color of the text
+      - :type text_color:               \(str\)
+      - :param button_background_color: The color of the background of the button on the combo box
+      - :type button_background_color:  \(str\)
+      - :param button_arrow_color:      The color of the arrow on the button on the combo box
+      - :type button_arrow_color:       \(str\)
+      - :param bind_return_key:         If True, then the return key will cause a the Combo to generate an event
+      - :type bind_return_key:          \(bool\)
+      - :param change_submits:          DEPRICATED DO NOT USE. Use `enable_events` instead
+      - :type change_submits:           \(bool\)
+      - :param enable_events:           Turns on the element specific events. Combo event is when a choice is made
+      - :type enable_events:            \(bool\)
+      - :param disabled:                set disable state for element
+      - :type disabled:                 \(bool\)
+      - :param key:                     Used with window.find_element and with return values to uniquely identify this element
+      - :type key:                      str | int | tuple | object
+      - :param k:                       Same as the Key. You can use either k or key. Which ever is set will be used.
+      - :type k:                        str | int | tuple | object
+      - :param pad:                     Amount of padding to put around element in pixels \(left/right, top/bottom\) or \(\(left, right\), \(top, bottom\)\) or an int. If an int, then it's converted into a tuple \(int, int\)
+      - :type pad:                      \(int, int\) or \(\(int, int\),\(int,int\)\) or \(int,\(int,int\)\) or  \(\(int, int\),int\) | int
+      - :param p:                       Same as pad parameter.  It's an alias. If EITHER of them are set, then the one that's set will be used. If BOTH are set, pad will be used
+      - :type p:                        \(int, int\) or \(\(int, int\),\(int,int\)\) or \(int,\(int,int\)\) or  \(\(int, int\),int\) | int
+      - :param expand_x:                If True the element will automatically expand in the X direction to fill available space
+      - :type expand_x:                 \(bool\)
+      - :param expand_y:                If True the element will automatically expand in the Y direction to fill available space
+      - :type expand_y:                 \(bool\)
+      - :param tooltip:                 text that will appear when mouse hovers over this element
+      - :type tooltip:                  \(str\)
+      - :param readonly:                make element readonly \(user can't change\). True means user cannot change
+      - :type readonly:                 \(bool\)
+      - :param font:                    specifies the font family, size, etc. Tuple or Single string format 'name size styles'. Styles: italic * roman bold normal underline overstrike
+      - :type font:                     \(str or \(str, int\[, str\]\) or None\)
+      - :param visible:                 set visibility state of the element
+      - :type visible:                  \(bool\)
+      - :param metadata:                User metadata that can be set to ANYTHING
+      - :type metadata:                 \(Any\)
+  - get\(
+    - self\)
+      - Returns the current \(right now\) value of the Combo.  DO NOT USE THIS AS THE NORMAL WAY OF READING A COMBO!
+      - You should be using values from your call to window.read instead.  Know what you're doing if you use it.
+      - :return: Returns the value of what is currently chosen
+      - :rtype:  Any | None
+  - update\(
+    - self, 
+    - value=None, 
+    - values=None, 
+    - set_to_index=None, 
+    - disabled=None, 
+    - readonly=None, 
+    - font=None, 
+    - visible=None, 
+    - size=\(None, None\)\)
+      - Changes some of the settings for the Combo Element. Must call `Window.Read` or `Window.Finalize` prior.
+      - Note that the state can be in 3 states only.... enabled, disabled, readonly even though more combinations are available. The easy way to remember is that if you change the readonly parameter then you are enabling the element.
+      - Changes will not be visible in your window until you call window.read or window.refresh.
+      - If you change visibility, your element may MOVE. If you want it to remain stationary, use the "layout helper" function "pin" to ensure your element is "pinned" to that location in your layout so that it returns there when made visible.
+      - :param value:        change which value is current selected based on new list of previous list of choices
+      - :type value:         \(Any\)
+      - :param values:       change list of choices
+      - :type values:        List\[Any\]
+      - :param set_to_index: change selection to a particular choice starting with index = 0
+      - :type set_to_index:  \(int\)
+      - :param disabled:     disable or enable state of the element
+      - :type disabled:      \(bool\)
+      - :param readonly:     if True make element readonly \(user cannot change any choices\). Enables the element if either choice are made.
+      - :type readonly:      \(bool\)
+      - :param font:         specifies the font family, size, etc. Tuple or Single string format 'name size styles'. Styles: italic * roman bold normal underline overstrike
+      - :type font:          \(str or \(str, int\[, str\]\) or None\)
+      - :param visible:      control visibility of element
+      - :type visible:       \(bool\)
+      - :param size:         width, height. Width = characters-wide, height = NOTE it's the number of entries to show in the list
+      - :type size:          \(int, int\)

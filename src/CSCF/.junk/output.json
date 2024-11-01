@@ -1,0 +1,30 @@
+_stackEntry_: 0
+  Length: 6
+  Contents: FrameInfo(
+    frame=<frame at 0x7f2a3cc52650, file '/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_00_OS.py', line 189, code whoAmI>,
+    filename='/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_00_OS.py',
+    lineno=184,
+    function='whoAmI',
+    code_context=['  _stack_ = INS.stack()\n'],
+    index=0)
+
+_stackEntry_: 1
+  Length: 6
+  Contents: FrameInfo(
+    frame=<frame at 0x7f2a3cc52480, file '/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_00_OS.py', line 235, code diagPrint>,
+    filename='/rcr/0-sourceCode/0-development/0-python/CSCF/CSCF/SUBM_D/_00_OS.py',
+    lineno=235,
+    function='diagPrint',
+    code_context=['  _whoAmI_ = whoAmI(stackPosition_=stackPosition_)\n'],
+    index=0)
+
+_stackEntry_: -1
+  Length: 6
+  Contents: FrameInfo(frame=<frame at 0x7f2a3ce3da40, file '/usr/lib/python3.10/runpy.py', line 196, code _run_module_as_main>, filename='/usr/lib/python3.10/runpy.py', lineno=196, function='_run_module_as_main', code_context=['    return _run_code(code, main_globals, None,\n'], index=0)
+
+_stackEntry_: -2
+  Length: 6
+  Contents: FrameInfo(frame=<frame at 0x563a1a274e60, file '/usr/lib/python3.10/runpy.py', line 86, code _run_code>, filename='/usr/lib/python3.10/runpy.py', lineno=86, function='_run_code', code_context=['    exec(code, run_globals)\n'], index=0)
+
+
+identify -format "%m|%g|%[colorspace]|%[bit-depth]|%[type]|\n" 010f923f62df490087705c51f31b18aae301183225183da71e289d64dffa4eabe84e9135420714f877215a0502762bc3d18ab07b9a99a067eb9553214995927d.gif

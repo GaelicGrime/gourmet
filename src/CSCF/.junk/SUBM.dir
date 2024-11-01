@@ -1,0 +1,42 @@
+total 608K
+   0 drwxr-xr-x 1 will will 1.2K Jul 21 17:13 .
+   0 drwxr-xr-x 1 will will  174 Apr 26 22:20 ..
+   0 drwxr-xr-x 1 will will 1.9K Jul 14 21:05 __pycache__
+ 20K -rw-r--r-- 1 will will  18K Jan 17  2022 .py
+4.0K -rw-r--r-- 1 will will 2.1K Dec 14  2021 _00_GET_ROOT_DIR.py
+4.0K -rw-r--r-- 1 will will 1.4K Dec 14  2021 _00_GMT.py
+ 32K -rw-r--r-- 1 will will  31K May  3 19:15 .py
+ 16K -rw-r--r-- 1 will will  14K Dec 14  2021 _00_MAKE_ALL.py
+112K -rw-r--r-- 1 will will 111K Jun 18 19:48 .py
+ 28K -rw-r--r-- 1 will will  27K Jul 12 13:20 _00_OS_VARS.py
+8.0K -rw-r--r-- 1 will will 4.5K Apr  2 02:31 _00_PATHLIB.py
+4.0K -rw-r--r-- 1 will will 1.5K Dec 14  2021 _00_PL_MKDIR.py
+ 20K -rw-r--r-- 1 will will  18K Apr 15 20:21 _00_SCREEN.py
+ 20K -rw-r--r-- 1 will will  17K May 26 00:01 _00_SHUTIL.py
+8.0K -rw-r--r-- 1 will will 4.7K Apr  2 01:00 _00_STRING_STUFF.py
+8.0K -rw-r--r-- 1 will will 4.5K Jul 13 19:01 _00_SUBPROCESS.py
+4.0K -rw-r--r-- 1 will will 2.1K Jul 13 18:00 _00_SUBPROCESS_VARS.py
+ 36K -rw-r--r-- 1 will will  35K Jun  5 21:57 _00_TIME_DT.py
+ 24K -rw-r--r-- 1 will will  22K May  2 20:15 _00_TIME_HMS.py
+ 12K -rw-r--r-- 1 will will 9.4K Dec 14  2021 _00_TIME_INT.py
+4.0K -rw-r--r-- 1 will will  190 Oct 20  2021 _00_TIME_TIME.py
+ 28K -rw-r--r-- 1 will will  28K Jul 14 20:43 _00_VALS_IN.py
+ 12K -rw-r--r-- 1 will will 9.0K May 23 23:09 _01_DIALOG.py
+4.0K -rw-r--r-- 1 will will  130 May  7 20:07 _01_DIALOG_VARS.py
+4.0K -rw-r--r-- 1 will will 3.2K Apr 28 16:18 _01_FILESYSTEM.py.retired
+4.0K -rw-r--r-- 1 will will 2.0K May 25 23:21 _01_HASHES.py
+8.0K -rw-r--r-- 1 will will 5.1K May 11 18:44 _01_OPTIONS_INFO.md
+4.0K -rw-r--r-- 1 will will  846 May 23 22:50 _01_OPTIONS_KEYS.py
+ 28K -rw-r--r-- 1 will will  26K Jun 21 12:57 _01_OPTIONS.py
+ 48K -rw-r--r-- 1 will will  47K Jul 12 16:10 _01_OPTIONS_VARS.py
+ 16K -rw-r--r-- 1 will will  14K Jul 19 21:47 _01_PSG.py
+4.0K -rw-r--r-- 1 will will 1.6K Jul 19 21:39 _01_PSG_VARS.py
+ 56K -rw-r--r-- 1 will will  55K Jul 17 18:33 _01_REPR.py
+8.0K -rw-r--r-- 1 will will 7.4K Jul 17 15:28 _01_REPR_VARS.py
+4.0K -rw-r--r-- 1 will will   68 Oct 20  2021 debugPlay.py
+4.0K -rw-r--r-- 1 will will  214 Oct 20  2021 dir.txt
+4.0K -rw-r--r-- 1 will will 2.4K Dec 14  2021 __dynamicImport__.py
+   0 -rw-r--r-- 1 will will    0 May  5 16:16 __init__.py
+4.0K -rw-r--r-- 1 will will 2.1K Apr  2 01:11 __init__.py.txt
+   0 -rw-r--r-- 1 will will    0 Jul 21 17:13 SUBM.dir
+4.0K -rw-r--r-- 1 will will  191 Apr 26 22:20 tox.ini

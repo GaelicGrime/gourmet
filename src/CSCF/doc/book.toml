@@ -1,0 +1,6 @@
+[book]
+authors = ["GaelicGrime"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Common Functions For Python"
