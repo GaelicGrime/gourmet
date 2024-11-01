@@ -1,7 +1,7 @@
 #!/usr/bin/env /usr/bin/python3
 
 
-import . VARS as V
+import VARS as V
 
 
 locals().update(V.CF_OS.ALL_THE_OS_DATA)
