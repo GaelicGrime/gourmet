@@ -1,12 +1,10 @@
 #!/usr/bin/env /usr/bin/python3
 
 
-from CSCF.SUBM_D import _00_OS as CF_OS
+import . VARS as V
 
 
-SOURCE_DIR = f"""{CF_OS.HOME}/stuff/recipes"""
-DATABASES = []
-MENU = ""
+locals().update(V.CF_OS.ALL_THE_OS_DATA)
 
 
 def getList() -> None:
@@ -17,9 +15,9 @@ def getList() -> None:
     )
   for _entry_ in _result_:
     if (
-        (_entry_["K_EXTENSION"] == ".db")
+        (_entry_[K_EXTENSION] == ".db")
     ):
-      DATABASES.append()
+      DATABASES.append(_entry_[K_JUST_FILENAME])
   # ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1
 
 
