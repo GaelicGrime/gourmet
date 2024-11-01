@@ -6,7 +6,7 @@ DATABASES = []
 MENU = ""
 FONT = "Source Code Pro"
 FONT_SIZE = 10
-
+TEXT_COLOR = ""
 
 def BUTTON(*,
     text_):
@@ -15,6 +15,6 @@ def BUTTON(*,
     "button_text": text_,
     "font": (FONT, FONT_SIZE),
     "focus": True,
-    "button_color": (TEXT_COLOR, ADJBTNDOWNCOLOR),
+    "button_color": (TEXT_COLOR, BACKGROUND_COLOR),
   }
   # ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1
