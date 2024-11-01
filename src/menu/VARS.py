@@ -1,12 +1,14 @@
 from CSCF.SUBM_D import _00_OS as CF_OS
 
 
-SOURCE_DIR = f"""{CF_OS.HOME}/stuff/recipes"""
+BACKGROUND_COLOR = "#103010"
 DATABASES = []
-MENU = ""
 FONT = "Source Code Pro"
 FONT_SIZE = 10
-TEXT_COLOR = ""
+MENU = ""
+SOURCE_DIR = f"""{CF_OS.HOME}/stuff/recipes"""
+TEXT_COLOR = "#800095"
+
 
 def BUTTON(*,
     text_):
