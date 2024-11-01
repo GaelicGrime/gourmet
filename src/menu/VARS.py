@@ -21,6 +21,56 @@ BTNQUIT = {
   "image_data": QUIT128,
 }
 
+mainLayout = [
+  [
+    SG.Col(CLMTIMER),
+  ],
+  [
+    SG.Text(
+      key="_upTime_",
+      **TEXTUPTIME,
+    ),
+    SG.Text(
+      key="_downTime_",
+      **TEXTDOWNTIME,
+    ),
+    SG.Col(
+      [
+        [
+          SG.Btn(
+            key="Quit",
+            **BTNQUIT,
+          ),
+        ],
+        [
+          SG.Btn(
+            key="zeroAll",
+            **BTNZEROALL,
+          ),
+        ],
+      ],
+    ),
+  ],
+  [
+    SG.Col(CLMTASK1),
+    SG.Col(CLMTASK2),
+    SG.Col(CLMTASK3),
+    SG.Col(CLMTASK4),
+  ],
+]
+
+mainWindowParms = {
+  "title": MAINWINDOWTITLE,
+  "layout": mainLayout,
+  "location": (0, 0),
+  "element_padding": (0, 0),
+  "no_titlebar": False,
+}
+
+mainFrame = SG.Window(
+  **mainWindowParms
+).finalize()
+
 
 def TASK_ENTRY(*,
     key_,
