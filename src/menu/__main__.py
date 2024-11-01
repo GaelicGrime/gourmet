@@ -13,11 +13,15 @@ def getList() -> None:
   _result_ = V.CF_OS.getDir(
       sourceDir_=V.SOURCE_DIR,
     )
+
   for _entry_ in _result_[1]:
     if (
         (_entry_[K_EXTENSION] == ".db")
     ):
       V.DATABASES.append(_entry_[K_JUST_FILENAME])
+
+  for _entry_ in V.DATABASES:
+    print(f"""{_entry_=}""")
   # ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1 ⟰1
 
 
