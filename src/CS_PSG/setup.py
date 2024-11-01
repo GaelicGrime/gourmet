@@ -24,6 +24,8 @@ setup(
       ],
   },
   scripts=[
+      "scripts/imgTo64",
+      "scripts/folderTo64",
     ],
   packages=find_packages(),
   install_requires=[
