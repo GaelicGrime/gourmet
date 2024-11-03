@@ -5,7 +5,7 @@ from setuptools import setup
 from datetime import datetime as DT
 
 
-__VERSION__ = DT.now().strftime("%Y.%m.%d.%H%M%S")
+__VERSION__ = DT.now().strftime("%Y.%m.%d.%H%M")
 with open("CS_PSG/__VERSION__.py", "tw") as _FD_OUT_:
   _FD_OUT_.write(f"""\n\n__VERSION__ = \"{__VERSION__}\"\n\n#\n""")
 

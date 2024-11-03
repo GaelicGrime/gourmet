@@ -1,8 +1,29 @@
 #!/usr/bin/env /usr/bin/zsh
 
 
-echo $0
-echo readlink $0
+ARGV=()
+_MY_LOCATION_=$(readlink $0)
+#_EXTENSION_="$_MY_LOCATION_:t:e"
+#_FILENAME_="$_MY_LOCATION_:t:r"
+#_FULL_PATH_="$_MY_LOCATION_"
+_PATH_="$_MY_LOCATION_:h"
+#_WHOLE_FILENAME_="$_MY_LOCATION_:t"
+_PYTHON_="$_PATH_/python"
+_IMG_TO_64_="$_PATH_/../../src/CS_PSG/CS_PSG/imgEnc.py"
+#shift argv
+#_EXEC_=$_PYTHON_ "../../src/CS_PSG/CS_PSG/imgEnc.py" $ARGV
+
+echo "argv is $argv"
+#echo "exec is $_EXEC_"
+#echo "img to 64 is $_IMG_TO_64_"
+#echo "path is $_PATH_"
+#echo "python is $_PYTHON_"
+#echo ""
+echo "$_PYTHON_ $_IMG_TO_64_ $argv"
+#echo ""
+
+
+$_PYTHON_ $_IMG_TO_64_ $argv
 
 
 #
