@@ -29,9 +29,9 @@ def debug (message, level=10):
             line = ""
         if args.debug_file:
             if debug_file.search(finame):
-                print("DEBUG: ",ts,"%s: %s"%(finame,line),message)
+                print("ZE DEBUG: ",ts,"%s: %s"%(finame,line),message)
         else:
-            print("DEBUG: ",ts,"%s: %s"%(finame,line),message)
+            print("ZE DEBUG: ",ts,"%s: %s"%(finame,line),message)
 
 timers = {}
 
