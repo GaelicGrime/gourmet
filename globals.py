@@ -81,7 +81,7 @@
    'Warning': <class 'Warning'>,
    'ZeroDivisionError': <class 'ZeroDivisionError'>,
    '__build_class__': <built-in function __build_class__>,
-   '__debug__': False,
+   '__debug__': True,
    '__doc__': 'Built-in functions, types, exceptions, and other objects.\n'
               '\n'
               "This module provides direct access to all 'built-in'\n"
@@ -194,7 +194,7 @@ All Rights Reserved.,
  ('__spec__',
   ModuleSpec(name='gourmet.recipeManager', loader=<_frozen_importlib_external.SourceFileLoader object at 0x7f36b6f85f10>, origin='/zopt/src/gourmet/src/gourmet/recipeManager.py')),
  ('args',
-  Namespace(db_url='sqlite:////home/liam/stuff/recipes/Asian.db', threads=False, gourmetdir='', thread_debug_interval=5.0, thread_debug=False, debug_file='', time=False, debug=False)),
+  Namespace(db_url='sqlite:////home/liam/stuff/recipes/Asian.db', threads=False, gourmetdir='', thread_debug_interval=5.0, thread_debug=False, debug_file='', time=False, debug=None)),
  ('convert',
   <module 'gourmet.convert' from '/zopt/src/gourmet/src/gourmet/convert.py'>),
  ('dbDic', <class 'gourmet.backends.db.dbDic'>),
