@@ -81,7 +81,7 @@
    'Warning': <class 'Warning'>,
    'ZeroDivisionError': <class 'ZeroDivisionError'>,
    '__build_class__': <built-in function __build_class__>,
-   '__debug__': True,
+   '__debug__': False,
    '__doc__': 'Built-in functions, types, exceptions, and other objects.\n'
               '\n'
               "This module provides direct access to all 'built-in'\n"
